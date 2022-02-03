@@ -18,7 +18,7 @@ public class Application {
 	}
 	@GetMapping("/")
 	public String index() {
-		return "<h1>Thanks Dude!</h1>";
+		return "<h1>Hello Nazim!</h1>";
 	}
 
 
